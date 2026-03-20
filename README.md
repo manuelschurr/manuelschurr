@@ -2,7 +2,7 @@
 
 Head of Product by day. Builder of things by night.
 
-I lead product at [filu](https://www.filu.vet) in Munich. Before that, I built product at [Personio](https://www.personio.com), co-founded a disc golf app that grew to 1,500 users in six weeks, and helped launch corporate ventures at Deloitte Digital.
+I lead product at [filu](https://www.filu.vet) in Munich. Before that, I built product at [Personio](https://www.personio.com), co-founded a disc golf app that organically grew to 1,500 users in six weeks, and helped launch corporate ventures at Deloitte Digital.
 
 When I'm not doing product work, I write code — mostly to scratch my own itch.
 
