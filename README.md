@@ -15,7 +15,8 @@ When I'm not doing product work, I write code — mostly to scratch my own itch.
 - [worktree-dashboard](https://github.com/manuelschurr/worktree-dashboard) — Terminal UI for monitoring worktree sessions and dev servers (Python)
 - [worktree-orchestrator](https://github.com/manuelschurr/worktree-orchestrator) — Claude Code skill for spinning up and managing parallel worktree sessions
 
-**Claude Code Skills** — extending Claude Code with reusable automation:
+**Claude Code Extensions** — extending Claude Code with reusable automation:
+- [c200v-marketplace](https://github.com/manuelschurr/c200v-marketplace) — Personal Claude Code plugin marketplace, currently shipping the `professional-twin` plugin for career/job-application workflows
 - [rebase](https://github.com/manuelschurr/rebase) — Automatic branch rebasing with intelligent merge conflict resolution
 
 **Flutter Templates** — production-ready starters for full-stack apps:
@@ -31,6 +32,7 @@ I build tools for people who do real work outside — drone operations, hunting,
 
 - **Scout** — Drone mission management for fawn rescue. Live telemetry, team coordination, offline-first.
 - **WaidPlan** — Digital hunting ground management with interactive maps, wildlife tracking, and weather data.
+- **Suchensieger** — Training companion for German hunting dog exams (BH/VT, QBP, BLP/R, Working Tests). Log sessions, track skills, identify gaps.
 - **Calfred** — Shared availability scheduling without the back-and-forth.
 
 More at [c200v.com](https://c200v.com)
