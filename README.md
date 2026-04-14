@@ -1,4 +1,4 @@
-### Hey, I'm Manuel.
+## Hey, I'm Manuel.
 
 Head of Product by day. Builder of things by night.
 
@@ -8,25 +8,34 @@ When I'm not doing product work, I write code — mostly to scratch my own itch.
 
 ---
 
-#### Open source
+### Agentic Coding
 
-**Git Worktree Tooling** — tools for running parallel AI coding sessions across isolated branches:
+Tools and plugins for working with AI coding agents — mostly Claude Code.
+
+**Claude Code plugins** — installable via my [plugin marketplace](https://github.com/manuelschurr/c200v-marketplace):
+- [professional-twin](https://github.com/manuelschurr/professional-twin) — Build and use a personal repository of your professional self (identity, history, values, direction) to support job applications, interviews, and career reflection
+- [tutor](https://github.com/manuelschurr/tutor) — Personal adaptive learning plugin. Create a custom course on any topic and study it through guided, expert-tutor-style sessions inside Claude Code
+
+**Parallel worktree tooling** — running multiple AI coding sessions across isolated branches:
 - [orfoni](https://github.com/manuelschurr/orfoni) — Desktop app for managing parallel terminal sessions across git worktrees (Rust / Tauri v2 / Svelte 5)
 - [worktree-dashboard](https://github.com/manuelschurr/worktree-dashboard) — Terminal UI for monitoring worktree sessions and dev servers (Python)
 - [worktree-orchestrator](https://github.com/manuelschurr/worktree-orchestrator) — Claude Code skill for spinning up and managing parallel worktree sessions
 
-**Claude Code Extensions** — extending Claude Code with reusable automation:
-- [c200v-marketplace](https://github.com/manuelschurr/c200v-marketplace) — Personal Claude Code plugin marketplace, currently shipping the `professional-twin` plugin for career/job-application workflows
+**Standalone Claude Code skills:**
 - [rebase](https://github.com/manuelschurr/rebase) — Automatic branch rebasing with intelligent merge conflict resolution
 
-**Flutter Templates** — production-ready starters for full-stack apps:
+---
+
+### Flutter Templates
+
+Production-ready starters for full-stack apps:
 - [flutter_bootstrap](https://github.com/manuelschurr/flutter_bootstrap) — Flutter web + Dart backend + GCP Cloud Run + Cloudflare Pages, wired with CI/CD and OpenTofu
 - [flutter_bootstrap_multi_user](https://github.com/manuelschurr/flutter_bootstrap_multi_user) — Adds Google OAuth, Row-Level Security, and email allow-list
 - [flutter_bootstrap_multi_tenant](https://github.com/manuelschurr/flutter_bootstrap_multi_tenant) — Adds multi-tenancy on top of the multi-user template
 
 ---
 
-#### Code 200 Ventures
+### Code 200 Ventures
 
 I build tools for people who do real work outside — drone operations, hunting, field coordination. All built with Flutter, designed offline-first.
 
@@ -39,7 +48,7 @@ More at [c200v.com](https://c200v.com)
 
 ---
 
-#### Beyond code
+### Beyond code
 
 I coordinate fawn rescue drone missions with 70 volunteers across southern Germany — 175 missions, 1,700 hectares, 90 fawns saved last season. I also fly the drones.
 
