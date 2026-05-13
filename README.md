@@ -26,6 +26,12 @@ Tools and plugins for working with AI coding agents — mostly Claude Code.
 
 ---
 
+### Windows tooling
+
+- [lazarus](https://github.com/manuelschurr/lazarus) — Windows tray app that resurrects per-topic working environments — every app, every monitor, every virtual desktop, one click (Rust)
+
+---
+
 ### Flutter Templates
 
 Production-ready starters for full-stack apps:
