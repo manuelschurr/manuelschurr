@@ -15,7 +15,7 @@ Tools and plugins for working with AI coding agents — mostly Claude Code.
 **Claude Code plugins** — installable via my [plugin marketplace](https://github.com/manuelschurr/c200v-marketplace):
 - [professional-twin](https://github.com/manuelschurr/professional-twin) — Build and use a personal repository of your professional self (identity, history, values, direction) to support job applications, interviews, and career reflection
 - [tutor](https://github.com/manuelschurr/tutor) — Personal adaptive learning plugin. Create a custom course on any topic and study it through guided, expert-tutor-style sessions inside Claude Code
-- [claude-vps](https://github.com/manuelschurr/claude-vps) — Use Claude on a VPS effortlessly: start or restart a worktree branch's dev server and get a public URL to test it from any device, plus a memory/idle resource guard so the box never runs out of RAM
+- [claude-vps](https://github.com/manuelschurr/claude-vps) — Run Claude Code on a VPS end-to-end: bootstrap the host, onboard projects, test worktree branches at public URLs, and manage a tmux session grid, with a resource guard so the box never runs out of RAM
 
 **Parallel worktree tooling** — running multiple AI coding sessions across isolated branches:
 - [orfoni](https://github.com/manuelschurr/orfoni) — Desktop app for managing parallel terminal sessions across git worktrees (Rust / Tauri v2 / Svelte 5)
