@@ -1,65 +1,28 @@
-## Hey, I'm Manuel.
+## Manuel Schurr
 
-Defense Founder.
+**Making Europe unbreakable.**
 
-I led product at [filu](https://www.filu.vet) in Munich. Before that, I built product at [Personio](https://www.personio.com), co-founded a disc golf app that organically grew to 1,500 users in six weeks, and helped launch corporate ventures at Deloitte Digital.
+I'm building a defense company that gives ground forces their movement back. Early, and in stealth.
 
-When I'm not doing product work, I write code — mostly to scratch my own itch.
+**I'm looking for a technical cofounder:** RF and embedded, for hardware that goes into the field. The rest is a conversation: hello@manuelschurr.com
 
----
-
-### Agentic Coding
-
-Tools and plugins for working with AI coding agents — mostly Claude Code.
-
-**Claude Code plugins** — installable via my [plugin marketplace](https://github.com/manuelschurr/c200v-marketplace):
-- [professional-twin](https://github.com/manuelschurr/professional-twin) — Build and use a personal repository of your professional self (identity, history, values, direction) to support job applications, interviews, and career reflection
-- [tutor](https://github.com/manuelschurr/tutor) — Personal adaptive learning plugin. Create a custom course on any topic and study it through guided, expert-tutor-style sessions inside Claude Code
-- [claude-vps](https://github.com/manuelschurr/claude-vps) — Run Claude Code on a VPS end-to-end: bootstrap the host, onboard projects, test worktree branches at public URLs, and manage a tmux session grid, with a resource guard so the box never runs out of RAM
-- [running-coach](https://github.com/manuelschurr/running-coach) — Personal running coach: pull intervals.icu data, diagnose your fitness arc, find races near you, build training plans calibrated to current fitness, and author + push structured pace workouts to your intervals.icu calendar
-
-**Parallel worktree tooling** — running multiple AI coding sessions across isolated branches:
-- [orfoni](https://github.com/manuelschurr/orfoni) — Desktop app for managing parallel terminal sessions across git worktrees (Rust / Tauri v2 / Svelte 5)
-- [worktree-dashboard](https://github.com/manuelschurr/worktree-dashboard) — Terminal UI for monitoring worktree sessions and dev servers (Python)
-- [worktree-orchestrator](https://github.com/manuelschurr/worktree-orchestrator) — Claude Code skill for spinning up and managing parallel worktree sessions
-
-**Standalone Claude Code skills:**
-- [rebase](https://github.com/manuelschurr/rebase) — Automatic branch rebasing with intelligent merge conflict resolution
+Every spring since 2024 I've led a fawn-rescue network in Bavaria: 70 volunteers, 400+ thermal-drone missions, more than 100 flown myself. One of three winning teams at the European Defense Tech Hackathon, Munich 2026.
 
 ---
 
-### Windows tooling
+### Tools I built for myself
 
-- [lazarus](https://github.com/manuelschurr/lazarus) — Windows tray app that resurrects per-topic working environments — every app, every monitor, every virtual desktop, one click (Rust)
+Mostly for working with AI coding agents. The Claude Code plugins install from my [plugin marketplace](https://github.com/manuelschurr/c200v-marketplace).
 
----
+- [tutor](https://github.com/manuelschurr/tutor) · Claude Code plugin: build a course on any topic and study it in guided sessions
+- [claude-vps](https://github.com/manuelschurr/claude-vps) · Run Claude Code on a VPS end to end, with a public preview URL per branch and a memory guard
+- [running-coach](https://github.com/manuelschurr/running-coach) · Training plans from your intervals.icu data, pushed to your calendar as structured workouts
+- [orfoni](https://github.com/manuelschurr/orfoni) · Desktop app for parallel terminal sessions across git worktrees (Rust, Tauri, Svelte)
+- [worktree-orchestrator](https://github.com/manuelschurr/worktree-orchestrator) · Claude Code skill for parallel worktree sessions with their own dev servers
+- [lazarus](https://github.com/manuelschurr/lazarus) · Restores a Windows workspace in one click: every app, every monitor, every virtual desktop (Rust)
 
-### Flutter Templates
-
-Production-ready starters for full-stack apps:
-- [flutter_bootstrap](https://github.com/manuelschurr/flutter_bootstrap) — Flutter web + Dart backend + GCP Cloud Run + Cloudflare Pages, wired with CI/CD and OpenTofu
-- [flutter_bootstrap_multi_user](https://github.com/manuelschurr/flutter_bootstrap_multi_user) — Adds Google OAuth, Row-Level Security, and email allow-list
-- [flutter_bootstrap_multi_tenant](https://github.com/manuelschurr/flutter_bootstrap_multi_tenant) — Adds multi-tenancy on top of the multi-user template
-
----
-
-### Code 200 Ventures
-
-I build tools for people who do real work outside — drone operations, hunting, field coordination. All built with Flutter, designed offline-first.
-
-- **Scout** — Drone mission management for fawn rescue. Live telemetry, team coordination, offline-first.
-- **WaidPlan** — Digital hunting ground management with interactive maps, wildlife tracking, and weather data.
-- **Suchensieger** — Training companion for German hunting dog exams (BH/VT, QBP, BLP/R, Working Tests). Log sessions, track skills, identify gaps.
-- **Calfred** — Shared availability scheduling without the back-and-forth.
-
-More at [c200v.com](https://c200v.com)
+More in [my repositories](https://github.com/manuelschurr?tab=repositories).
 
 ---
 
-### Beyond code
-
-I coordinate fawn rescue drone missions with 70 volunteers across southern Germany — 175 missions, 1,700 hectares, 90 fawns saved last season. I also fly the drones.
-
----
-
-[manuelschurr.com](https://manuelschurr.com) · [LinkedIn](https://www.linkedin.com/in/manuelschurr) · hello@manuelschurr.com
+[manuelschurr.com](https://manuelschurr.com) · [LinkedIn](https://www.linkedin.com/in/manuelschurr)
