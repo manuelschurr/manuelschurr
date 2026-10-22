@@ -4,8 +4,6 @@
 
 I'm building a defense company that gives ground forces their movement back. Early, and in stealth.
 
-**I'm looking for a technical cofounder:** RF and embedded, for hardware that goes into the field. The rest is a conversation: hello@manuelschurr.com
-
 Every spring since 2024 I've led a fawn-rescue network in Bavaria: 70 volunteers, 400+ thermal-drone missions, more than 100 flown myself. One of three winning teams at the European Defense Tech Hackathon, Munich 2026.
 
 ---
