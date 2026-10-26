@@ -15,7 +15,7 @@ Mostly for working with AI coding agents. The Claude Code plugins install from m
 - [tutor](https://github.com/manuelschurr/tutor) · Claude Code plugin: build a course on any topic and study it in guided sessions
 - [claude-vps](https://github.com/manuelschurr/claude-vps) · Run Claude Code on a VPS end to end, with a public preview URL per branch and a memory guard
 - [running-coach](https://github.com/manuelschurr/running-coach) · Training plans from your intervals.icu data, pushed to your calendar as structured workouts
-- [orfoni](https://github.com/manuelschurr/orfoni) · Desktop app for parallel terminal sessions across git worktrees (Rust, Tauri, Svelte)
+- orfoni · Follow and steer Claude Code sessions on a remote machine from Windows or Android, in a chat or a terminal (in progress, private for now)
 - [worktree-orchestrator](https://github.com/manuelschurr/worktree-orchestrator) · Claude Code skill for parallel worktree sessions with their own dev servers
 - [lazarus](https://github.com/manuelschurr/lazarus) · Restores a Windows workspace in one click: every app, every monitor, every virtual desktop (Rust)
 
